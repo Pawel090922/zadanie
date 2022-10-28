@@ -10,7 +10,7 @@
 
 
 Co to za pies? [^1]
-Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wikipedia.org/wiki/Bokser_(rasa_psa)*
+Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wikipedia.org/wiki/Bokser_(rasa_psa))*
 
 # Spis treści
  1. [Tabela](#Tabela)
