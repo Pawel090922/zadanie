@@ -6,11 +6,12 @@
 |Element 4|Element 5|Element 6|
 
 # Piesek
-![bokserek.jpg](bokserek.jpg)
-
-
 Co to za pies? [^1]
-</br>Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wikipedia.org/wiki/Bokser_(rasa_psa))*
+![bokserek.jpg](bokserek.jpg)
+![2.jpg](2.jpg)
+
+
+Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wikipedia.org/wiki/Bokser_(rasa_psa))*
 
 >To są naprawde fajne pieski
 
