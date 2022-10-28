@@ -15,7 +15,7 @@ Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wiki
 
 >To są naprawde fajne pieski
 
-[Tabela](#tabela)
+[Tabela](#Tabela)
 [Piesek](#Piesek)
 
 
