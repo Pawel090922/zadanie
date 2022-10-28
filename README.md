@@ -1,4 +1,4 @@
-Tabela
+# Tabela
 
 |Kolumna 1|Kolumna 2|Kolumna 3|
 |:---:|:---:|:---:|
@@ -15,6 +15,7 @@ Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wiki
 
 >To są naprawde fajne pieski
 
+# Linki
 [Tabela](#Tabela)
 [Piesek](#Piesek)
 
