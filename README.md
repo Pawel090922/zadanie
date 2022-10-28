@@ -10,7 +10,8 @@ Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wiki
 
 # Linki
 [Tabela](#Tabela)
-</br>[Piesek](#Piesek)
+
+[Piesek](#Piesek)
 
 
 # Tabela
