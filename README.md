@@ -1,4 +1,4 @@
-# Tabela {identyfikator}
+# Tabela
 
 |Kolumna 1|Kolumna 2|Kolumna 3|
 |:---:|:---:|:---:|
