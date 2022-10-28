@@ -17,7 +17,7 @@ Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wiki
 
 # Linki
 [Tabela](#Tabela)
-[Piesek](#Piesek)
+</br>[Piesek](#Piesek)
 
 
 [^1]:Bokser
