@@ -24,7 +24,7 @@ Tu jest jakaś rasa psa [^1]
 # Spis treści
  1. [Tabela](#Tabela)
  2. [Kod](#Kod)
- 3. [Lista zadań](#Lista)
+ 3. [Zadania](#Zadania)
 
 # Lista zadań :smile: 
 - [X] wejść na stepika
