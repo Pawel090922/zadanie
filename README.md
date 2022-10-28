@@ -1,4 +1,4 @@
-# Tabela 
+# Tabela {identyfikator}
 
 |Kolumna 1|Kolumna 2|Kolumna 3|
 |:---:|:---:|:---:|
@@ -22,7 +22,7 @@ print(wynik)
 Tu jest jakaś rasa psa [^1]
 
 # Spis treści
- 1. [Tabela](#Tabela)
+ 1. [Tabela] (#identyfikator)
  2. [Kod](#Kod)
  3. [Zadania](#Zadania)
 
