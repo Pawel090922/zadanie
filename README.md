@@ -10,11 +10,11 @@
 
 
 Co to za pies? [^1]
+Dużo więcej informacji można uzyskać na stronie *[Wikipedii](https://pl.wikipedia.org/wiki/Bokser_(rasa_psa)*
 
 # Spis treści
- 1. [Tabela] (#identyfikator)
- 2. [Kod](#Kod)
- 3. [Zadania](#Zadania)
+ 1. [Tabela](#Tabela)
+ 2. [Piesek](#Piesek)
 
 
 [^1]:Bokser
