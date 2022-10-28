@@ -26,7 +26,7 @@ Tu jest jakaś rasa psa [^1]
  2. [Kod](#Kod)
  3. [Zadania](#Zadania)
 
-# Lista zadań :smile: 
+# Zadania :smile: 
 - [X] wejść na stepika
 - [X] zrobić zadania z stepika
 - [ ] odpocząć
