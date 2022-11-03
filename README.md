@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="style.css" />
 
 # Piesek
 Co to za pies? [^1]
-<img src="bokserek.jpg" alt="bokserek" class="bokser-img" />
+![bokserek.jpg](bokserek.jpg)
 ![2.jpg](2.jpg)
 
 
